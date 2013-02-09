@@ -6,7 +6,7 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #736283;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
   background-repeat: no-repeat;
   background-color: #F26522;
   color: #DA4930;
-  font-family: "Days One", sans-serif;
+  font-family: 'Sacramento', cursive;
 }
 
 /* The #game element holds the whole game */
@@ -50,7 +50,7 @@ body {
   border-radius: 4px;
   padding: 8px 0;
   height: 14px;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 /* The #reset button and the #gameScore button are in the header bar */
