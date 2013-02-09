@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://i2.squidoocdn.com/resize/squidoo_images/-1/lens17936070_1305070959Alice-In-Wonderland-Vinta) no-repeat; background-size: contain;}
+.fx {background: url(http://us.123rf.com/400wm/400/400/morphart/morphart1205/morphart120500279/13687316-the-mad-hatter-arrives-hastily-in-court-to-testify--alice-s-adventures-in-wonderland-original-vintag.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://2.bp.blogspot.com/_TZ4zYEBSw1I/S6AR6t0ZgDI/AAAAAAAAMAk/CdrTs_gvKxA/s400/alice_in_wonderland_Cheshire_Cat_floating_head_apparel.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://2.bp.blogspot.com/_CarNcodpCMA/S38T1uVWFiI/AAAAAAAAGRI/RcwzcGFupIg/s400/wonderlandrabbitgfairy001_vectorized.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://i129.photobucket.com/albums/p231/safereturn/Alice_par_John_Tenniel_04.png) no-repeat; background-size: contain;}
+.ns {background: url(http://www.alice-in-wonderland.net/alicepic/alice-in-wonderland/1book22.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://us.123rf.com/400wm/400/400/morphart/morphart1205/morphart120500270/13708349-alice-trying-to-play-croquet-with-flamingo-and-hedgehog--alice-s-adventures-in-wonderland-original-v.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://openclipart.org/people/ryanlerch/ryanlerch_Alice_In_Wonderland_-_28_-_Card_Men.svg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
